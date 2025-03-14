@@ -11,5 +11,5 @@ All metrics showed a notable increase from 2017 to 2018, with a sharp rise start
 ![Trends](https://github.com/user-attachments/assets/edaf04c9-22d7-428a-9028-1e83e7d8074a)
 ## Landing Page Performance
 ### Traffic
-A few landing pages account for the majority of leads,
+A small number of landing pages generate the majority of leads. Specifically, only 125 out of 495 landing pages (25.3%) brought in 10 or more leads, making them the high-traffic pages.
 ![Proportion of Landing Pages by Leads Generated](https://github.com/user-attachments/assets/c2f4d488-fa29-45d8-8beb-c8011251ca52)
