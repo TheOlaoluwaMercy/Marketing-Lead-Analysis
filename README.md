@@ -4,3 +4,6 @@ _Dataset information: This dataset is a marketing funnel dataset from sellers th
 * Gain insights into key metrics such as leads, wins, and win rates.
 * Evaluate the performance of landing pages and lead sources.
 * Recommend actions to improve marketing performance.
+## Key Metrics
+![Metrics](https://github.com/user-attachments/assets/52f99d70-ab47-4541-8cd6-4fbc5eaf947e)
+
