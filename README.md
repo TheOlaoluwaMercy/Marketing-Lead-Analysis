@@ -9,5 +9,7 @@ _Dataset information: This dataset is a marketing funnel dataset from sellers th
 ## Trend
 All metrics showed a notable increase from 2017 to 2018, with a sharp rise starting in January 2018.
 ![Trends](https://github.com/user-attachments/assets/edaf04c9-22d7-428a-9028-1e83e7d8074a)
-
 ## Landing Page Performance
+### Traffic
+A few landing pages account for the majority of leads,
+![Proportion of Landing Pages by Leads Generated](https://github.com/user-attachments/assets/c2f4d488-fa29-45d8-8beb-c8011251ca52)
