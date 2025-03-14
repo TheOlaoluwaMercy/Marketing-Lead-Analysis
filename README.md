@@ -6,4 +6,7 @@ _Dataset information: This dataset is a marketing funnel dataset from sellers th
 * Recommend actions to improve marketing performance.
 ## Key Metrics
 ![Metrics](https://github.com/user-attachments/assets/52f99d70-ab47-4541-8cd6-4fbc5eaf947e)
+## Trend
+![Trends](https://github.com/user-attachments/assets/edaf04c9-22d7-428a-9028-1e83e7d8074a)
 
+## Landing Page Performance
