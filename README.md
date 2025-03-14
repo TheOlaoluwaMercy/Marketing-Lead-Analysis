@@ -10,7 +10,6 @@ _Dataset information: This dataset is a marketing funnel dataset from sellers th
 All metrics showed a notable increase from 2017 to 2018, with a sharp rise starting in January 2018.
 ![Trends](https://github.com/user-attachments/assets/edaf04c9-22d7-428a-9028-1e83e7d8074a)
 ## Landing Page Performance
-### Traffic
 A small number of landing pages generate the majority of leads. Specifically, only 125 out of 495 landing pages (25.3%) are classified as high-traffic pages, as they brought in 10 or more leads. Despite their small proportion, these high-traffic pages were responsible for 90.9% of total leads and 92.3% of total wins.
 
 ![Landing Page](https://github.com/user-attachments/assets/2a797e92-424f-4fdb-a0ab-e9361c4c84c3)
