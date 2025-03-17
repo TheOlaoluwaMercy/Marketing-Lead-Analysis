@@ -16,7 +16,7 @@ A small number of landing pages generate the majority of leads. Specifically, on
 
 ## Origin Performance
 Organic search, social, and paid search are the top lead sources, contributing 71.6% of total leads and 66% of total wins. Organic search led with 28.7% of leads and 32.2% of wins, followed by social (23.1% of leads, 10.7% of wins) and paid search (19.8% of leads, 23.2% of wins). Leads from unknown origins accounted for 14.5% but contributed 22.9% of wins, making them a significant conversion source.
-Winning a lead is significantly associated with its origin, as confirmed by the chi-square test (p < 0.05). However, Cramer's V indicates a weak to moderate association. Adjusted residuals show that paid and organic search performed better than expected, while social underperformed. The win rate chart also reflects these trends, with unknown and paid search showing the highest conversion rates.
+Winning a lead is significantly associated with its origin, as confirmed by the chi-square test (p < 0.05). However, Cramer's V indicates a weak to moderate association. Adjusted residuals show that paid and organic search performed better than expected, while social underperformed. The win rate chart also reflects these trends, with unknown and paid search showing the highest conversion rates. The SPSS statistical test output can be found [here](https://github.com/TheOlaoluwaMercy/TheOlaoluwaMercy-Marketing-Lead-Analysis/blob/main/Origin%20Statistical%20Test%20Output.pdf)
 
 ![Origin](https://github.com/user-attachments/assets/49f5309c-1d95-4562-9e94-4914832c13ed)
 
