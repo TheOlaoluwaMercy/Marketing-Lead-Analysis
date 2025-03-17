@@ -4,6 +4,9 @@ _Dataset information: This [dataset](https://www.kaggle.com/datasets/olistbr/mar
 * Gain insights into key metrics such as leads, wins, and win rates.
 * Evaluate the performance of landing pages and lead sources.
 * Recommend actions to improve marketing performance.
+## Tools/Skills Used
+* Microsoft Excel - For combining datasets, descriptive analysis and visualization
+* SPSS - For statistical analysis and hypothesis testing
 ## Key Metrics
 ![Metrics](https://github.com/user-attachments/assets/52f99d70-ab47-4541-8cd6-4fbc5eaf947e)
 ## Trend
